@@ -86,3 +86,12 @@ The bridge maps domain strings to skill strings and logs every invocation. It's 
 ## License
 
 MIT
+
+## See Also
+- **ternary-captain** — related fleet coordination
+- **ternary-room** — related fleet coordination
+- **ternary-channel** — related fleet coordination
+- **ternary-beacon** — related fleet coordination
+- **ternary-bridge** — related fleet coordination
+- **ternary-protocol** — related fleet coordination
+
